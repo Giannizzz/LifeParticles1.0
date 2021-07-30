@@ -1,1 +1,1 @@
-# LifeParticles1.0
+# LifeParticles1.0 by Gianni Laschi 2021
